@@ -29,5 +29,4 @@ Welcome to my **personal portfolio website**, where I showcase my professional b
 
 ---
 
-## 📁 Project Structure
-
+<pre> ## 📁 Project Structure 📦 <b>mukeshwaran-max.github.io/</b> ├── <b>index.html</b> → Main landing page ├── <b>style.css</b> → Site styling ├── <b>java.js</b> → JavaScript for interactivity ├── <b>Mueshwaran.B_resume.pdf</b> → Embedded resume ├── <b>image (2).jpg</b> → Profile/background image └── <b>README.md</b> → Documentation </pre>
